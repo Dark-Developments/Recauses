@@ -1,2 +1,2 @@
-owner https://cdn.discordapp.com/attachments/1065417297717628928/1099754579077365770/Zero_Two.png
-booster https://cdn.discordapp.com/attachments/1065417297717628928/1099754579077365770/Zero_Two.png
+owner https://github.com/Dark-Developments/Recauses/blob/main/Perks/Capes/Textures/Zero%20Two.png?raw=true
+booster https://github.com/Dark-Developments/Recauses/blob/main/Perks/Capes/Textures/Zero%20Two.png?raw=true
