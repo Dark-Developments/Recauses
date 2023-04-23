@@ -1,3 +1,2 @@
-owner https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Zero%20Two.png
-booster https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Zero%20Two.png
-giftest https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Discord.gif
+owner https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/o.png
+booster https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/b.png
