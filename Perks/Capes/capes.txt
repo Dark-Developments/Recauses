@@ -1,2 +1,2 @@
-owner https://github.com/Dark-Developments/Recauses/blob/main/Perks/Capes/Textures/Zero%20Two.png?raw=true
-booster https://github.com/Dark-Developments/Recauses/blob/main/Perks/Capes/Textures/Zero%20Two.png?raw=true
+owner https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Zero%20Two.png
+booster https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Zero%20Two.png
