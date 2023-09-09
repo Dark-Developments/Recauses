@@ -2,3 +2,4 @@ owner https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Ca
 booster https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/b.png
 duck https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/Duck%20Cape.png
 biflag https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/biflag.png
+boon https://raw.githubusercontent.com/Dark-Developments/Recauses/main/Perks/Capes/Textures/boon.png
